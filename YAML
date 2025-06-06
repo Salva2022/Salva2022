@@ -1,0 +1,24 @@
+name: Build Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: metrics-action/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} 
+          user: Salva2022
+          template: classic 
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year 
+          plugin_isocalendar_reaction: github 
+
+          base: activity, community, repositories, metadata
+
+          output_filename: github-metrics.svg
