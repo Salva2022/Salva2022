@@ -52,7 +52,7 @@
 
 ## 📈 Commits Graph:
 
-![Contributions Graph](https://github-profile-summary-cards.vercel.app/api/cards/contributions-graph?username=SEU_USERNAME_GITHUB&theme=dracula)
+![My Contributions Graph](metrics.svg)
 
 
 
