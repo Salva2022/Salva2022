@@ -10,20 +10,20 @@
       
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 - Engenheiro da Computação pela Universidade São Judas Tadeu
 - Pós-Graduando no MBA de Governança e Gestão em TI pela Universidade Municipal de São Caetano do Sul
 - Analista de Operações e Serviços Jr
 - 📧 E-mail de contato: gdenadai98@gmail.com
 
-# 🌐 Socials:
+## 🌐 Socials:
 <div>
 <a href="https://www.linkedin.com/in/gustavo-s-b99278191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:gdenadai98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div>
   
 <a href="https://github.com/Salva2022">
@@ -32,7 +32,7 @@
 
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
