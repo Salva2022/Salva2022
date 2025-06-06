@@ -31,7 +31,7 @@
 
 </div>
 
-## 🔥 Streak de Commits
+## 🔥 Commits Streak
 <div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark)](https://git.io/streak-stats)
