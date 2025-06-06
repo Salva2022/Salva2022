@@ -51,10 +51,8 @@
 </div>
 
 ## 📈 Commits Graph:
-<div>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salva2022&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+![GitHub Activity Graph](github-metrics.svg)
 
 
 
