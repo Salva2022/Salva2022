@@ -2,30 +2,20 @@ name: Update Contributions Graph
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
-  workflow_dispatch: # Permite a execução manual da Action
+    - cron: '0 0 * * *' # Runs once every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  update-graph:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Permissão para escrever arquivos no repositório
+    name: Generate and commit contributions graph
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Download Contributions Graph
-        run: |
-          mkdir -p .github/images
-          wget -O .github/images/contributions-graph.svg "https://github-profile-summary-cards.vercel.app/api/cards/contributions-graph?username=${{ github.repository_owner }}&theme=dracula"
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .github/images/contributions-graph.svg
-          git commit -m "Update contributions graph" || echo "No changes to commit"
-          git push
-
-          
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg # This is the file that will be generated
+          token: ${{ secrets.METRICS_TOKEN }} # Make sure you have this secret set up
+          base: activity, community, repositories, metadata
+          plugin_isocalendar: yes # This is the plugin for the contributions graph
+          plugin_isocalendar_duration: full-year
