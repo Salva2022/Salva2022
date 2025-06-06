@@ -43,4 +43,10 @@
  
 </div>
 
+## 📈 Commits Graph:
+<div>
+<a href="https://github.com/Salva2022"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Salva2022&bg_color=15161F&color=ffffff&line=38bdae&point=ffffff&area_color=171717&area=true&border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+[![](https://visitcount.itsvg.in/api?id=Salva2022&icon=0&color=0)](https://visitcount.itsvg.in)
+      
+</div>
