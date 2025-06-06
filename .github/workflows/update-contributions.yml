@@ -2,8 +2,8 @@ name: Update Contributions Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs once every day at midnight UTC
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,8 +14,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg # This is the file that will be generated
-          token: ${{ secrets.METRICS_TOKEN }} # Make sure you have this secret set up
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories, metadata
-          plugin_isocalendar: yes # This is the plugin for the contributions graph
+          plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
