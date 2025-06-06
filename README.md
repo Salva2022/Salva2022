@@ -52,8 +52,6 @@
 
 ## 📈 Commits Graph:
 
-![GitHub Activity Graph](github-metrics.svg)
-
 
 
 
