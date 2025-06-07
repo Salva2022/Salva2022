@@ -52,7 +52,6 @@
 
 ## 📈 Commits Graph:
 
-![My Contributions Graph](metrics.svg)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salva2022&bg_color=232785&color=ffffff&line=32c8c8&point=64fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
