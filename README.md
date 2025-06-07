@@ -11,10 +11,10 @@
 </div>
 
 ## 💫 About Me:
-- Engenheiro da Computação pela Universidade São Judas Tadeu
-- Pós-Graduando no MBA de Governança e Gestão em TI pela Universidade Municipal de São Caetano do Sul
-- Analista de Operações e Serviços Jr
-- 📧 E-mail de contato: gdenadai98@gmail.com
+- Computer Engineer from São Judas Tadeu University
+- Postgraduate student in the MBA in IT Governance and Management from the Municipal University of São Caetano do Sul
+- Junior Operations and Services Analyst
+- 📧 Contact email: gdenadai98@gmail.com
 
 ## 🌐 Socials:
 <div>
