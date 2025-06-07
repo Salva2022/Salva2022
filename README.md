@@ -27,14 +27,14 @@
   
 <a href="https://github.com/Salva2022">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salva2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salva2022&layout=compact&langs_count=10&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salva2022&layout=donut&langs_count=10&theme=dracula"/>
 
 </div>
 
 ## 🔥 Commits Streak
 <div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salva2022&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
