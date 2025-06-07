@@ -26,15 +26,15 @@
 <div>
   
 <a href="https://github.com/Salva2022">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salva2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salva2022&layout=donut&langs_count=10&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salva2022&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salva2022&layout=donut&langs_count=10&theme=slateorange"/>
 
 </div>
 
 ## 🔥 Commits Streak
 <div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salva2022&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salva2022&theme=slateorange)](https://git.io/streak-stats)
 
 </div>
 
@@ -52,6 +52,6 @@
 
 ## 📈 Commits Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salva2022&bg_color=232785&color=ffffff&line=32c8c8&point=64fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salva2022&bg_color=322f31&color=f0ac19&line=df9d2a&point=e89b17&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
