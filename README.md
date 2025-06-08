@@ -11,7 +11,7 @@
 </div>
 
 ## 💫 About Me:
-- Computer Engineer from São Judas Tadeu University
+- Bachelor of Computer Engineering at the University at the São Judas Tadeu University
 - Postgraduate student in the MBA in IT Governance and Management from the Municipal University of São Caetano do Sul
 - Junior Operations and Services Analyst
 - 📧 Contact email: gdenadai98@gmail.com
