@@ -40,6 +40,8 @@
 
 ## 💻 Tech Stack:
 <div>
+
+
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" >
@@ -55,3 +57,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salva2022&bg_color=322f31&color=f0ac19&line=df9d2a&point=e89b17&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salva2022/Salva2022/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salva2022/Salva2022/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Salva2022/Salva2022/output/github-contribution-grid-snake.svg">
+</picture>
