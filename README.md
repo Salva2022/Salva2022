@@ -22,7 +22,21 @@
 
 </div>
 
+## 📊 GitHub Stats:
+<div>
+  
+<a href="https://github.com/Salva2022">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salva2022&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salva2022&layout=donut&langs_count=10&theme=slateorange"/>
 
+</div>
+
+## 🔥 Commits Streak
+<div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salva2022&theme=slateorange)](https://git.io/streak-stats)
+
+</div>
 
 ## 💻 Tech Stack:
 <div>
