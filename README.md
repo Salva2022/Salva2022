@@ -10,19 +10,19 @@
       
 </div>
 
-## 💫 About Me:
+# 💫 About Me:
 - Bachelor of Computer Engineering at the University at the São Judas Tadeu University
 - Postgraduate student in the MBA in IT Governance and Management from the Municipal University of São Caetano do Sul
 - Junior Operations and Services Analyst
 - 📧 Contact email: gdenadai98@gmail.com
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div>
 <a href="https://www.linkedin.com/in/gustavo-s-b99278191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
-## 🗃️ Projects:
+# 🗃️ Projects:
 - 📂 bibliotecaCobook (JAVA | SQL)
 
 <a href="https://github.com/Salva2022/bibliotecaCobook" target="_blank">
@@ -30,7 +30,7 @@
 </a> 
 
  Description: Library for creating and evaluating books by users registered in a database.
-
+#
 - 📂 SistemaIluminacaoAutomatica (C++ | HTML)
 
 <a href="https://github.com/Salva2022/SistemaIluminacaoAutomatica" target="_blank">
@@ -40,7 +40,7 @@
  Description: An automatic lighting system using an Arduino for control and an ESP32 for web monitoring.
 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <div>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
@@ -52,7 +52,7 @@
  
 </div>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <div>
   
 <a href="https://github.com/Salva2022">
@@ -61,14 +61,14 @@
 
 </div>
 
-## 🔥 Commits Streak
+# 🔥 Commits Streak
 <div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salva2022&theme=slateorange)](https://git.io/streak-stats)
 
 </div>
 
-## 📈 Commits Graph:
+# 📈 Commits Graph:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salva2022&bg_color=322f31&color=f0ac19&line=df9d2a&point=e89b17&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
