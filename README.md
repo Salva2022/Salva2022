@@ -22,6 +22,36 @@
 
 </div>
 
+## 🗃️ Projects:
+- bibliotecaCobook (JAVA | SQL)
+
+<a href="https://github.com/Salva2022/bibliotecaCobook" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=000&labelColor=fff">
+</a> 
+
+ Description: Library for creating and evaluating books by users registered in a database.
+
+- SistemaIluminacaoAutomatica (C++ | HTML)
+
+<a href="https://github.com/Salva2022/SistemaIluminacaoAutomatica" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=000&labelColor=fff">
+</a> 
+
+ Description: An automatic lighting system using an Arduino for control and an ESP32 for web monitoring.
+
+
+## 💻 Tech Stack:
+<div>
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" >
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" >
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" >
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" >
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" >  
+ 
+</div>
+
 ## 📊 GitHub Stats:
 <div>
   
@@ -36,20 +66,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salva2022&theme=slateorange)](https://git.io/streak-stats)
 
-</div>
-
-## 💻 Tech Stack:
-<div>
-
-
-  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" >
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" >
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" >
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" >
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" >  
- 
 </div>
 
 ## 📈 Commits Graph:
