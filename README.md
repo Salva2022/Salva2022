@@ -11,8 +11,8 @@
 
 # 💫 About Me:
 - Bachelor of Computer Engineering at the University at the São Judas Tadeu University
-- Postgraduate student in the MBA in IT Governance and Management from the Municipal University of São Caetano do Sul
-- Junior Operations and Services Analyst
+- Postgraduated in the MBA in IT Governance and Management from the Municipal University of São Caetano do Sul
+- Network Infrastructure Technician Assistant
 - 📧 Contact email: gdenadai98@gmail.com
 
 # 🌐 Socials:
